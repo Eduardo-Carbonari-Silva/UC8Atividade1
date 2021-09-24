@@ -15,6 +15,7 @@ if(pesoPeca > 100){
         //condição falsa
         console.log("Não Cadastrar, nome inválido!");
     }else{
+        //condição verdadeira
         console.log("Peça cadastrada com SUCESSO!!!");
     }
 }else{
